@@ -1,0 +1,18 @@
+.home{
+
+
+
+    padding: 1px;
+   
+  
+
+
+}
+
+.home > div {
+    background-color: rgba(255, 255, 255, 0.8);
+   display: flex;
+    text-align: center;
+    
+
+}
